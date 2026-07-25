@@ -62,3 +62,11 @@ Read HANDOFF.md and CONTAMINATION_FIREWALL.md.
 Crazy work lives here. Lab and Sandbox are downstream only via export-gate, operator-driven.
 Do not contaminate Lab/Sandbox. Do not commit secrets. Be useful and unhinged.
 ```
+
+## Next Grok — proposal raid takeover
+
+Hand the next seat this file and walk away:
+
+→ **[`HANDOFF_GROK_TAKEOVER.md`](HANDOFF_GROK_TAKEOVER.md)**
+
+Mission: mine Lab / Sandbox / Chaos proposals, score heat, open `ANTI-*` experiments, run one falsifier — **no upstream contamination**.
