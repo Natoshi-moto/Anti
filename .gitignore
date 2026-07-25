@@ -1,0 +1,16 @@
+.env
+.env.*
+*.pem
+*.key
+secrets/
+**/credentials*
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+*.swp
+LOCAL_ONLY/
+worlds/
