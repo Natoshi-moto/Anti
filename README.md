@@ -70,3 +70,9 @@ Hand the next seat this file and walk away:
 → **[`HANDOFF_GROK_TAKEOVER.md`](HANDOFF_GROK_TAKEOVER.md)**
 
 Mission: mine Lab / Sandbox / Chaos proposals, score heat, open `ANTI-*` experiments, run one falsifier — **no upstream contamination**.
+
+## Chaos + legal operating guide
+
+How you + any AI run maximum chaos without maximum felony:
+
+→ **https://github.com/Natoshi-moto/Chaos/blob/main/OPERATING_GUIDE.md**
